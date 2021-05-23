@@ -1,0 +1,23 @@
+00152f9e376c417fb35ab00984703e41// api key from newsapi.org
+
+https://newsapi.org/v2/everything?q=Apple&from=2021-04-14&sortBy=publishedAt&apiKey=00152f9e376c417fb35ab00984703e41
+
+
+
+
+
+AIzaSyDPWYjI2oYDFs8dOgjpbFaGQk2RHQvycQI // youtube api key
+UCE_M8A5yxnLfW0KghEeajjw // id for apple channel
+
+
+https://www.googleapis.com/youtube/v3/channels?key=AIzaSyDPWYjI2oYDFs8dOgjpbFaGQk2RHQvycQI&forUsername=Apple&part=id // to find apple api id
+
+
+
+
+
+
+
+
+
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDPWYjI2oYDFs8dOgjpbFaGQk2RHQvycQI&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=6 // final
